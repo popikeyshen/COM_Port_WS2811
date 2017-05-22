@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+c:\users\skyeton\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(63): warning C4309: 'initializing': truncation of constant value
+  ConsoleApplication3.vcxproj -> C:\Users\Skyeton\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\Skyeton\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Partial PDB)
